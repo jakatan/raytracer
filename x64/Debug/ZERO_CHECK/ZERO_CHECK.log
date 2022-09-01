@@ -1,0 +1,8 @@
+﻿  Checking Build System
+  CMake is re-running because C:/Users/jakam/OneDrive/Documents/CSCE 441/Assignments/A6/build/CMakeFiles/generate.stamp is out-of-date.
+    the file 'C:/Users/jakam/OneDrive/Documents/CSCE 441/Assignments/A6/CMakeLists.txt'
+    is newer than 'C:/Users/jakam/OneDrive/Documents/CSCE 441/Assignments/A6/build/CMakeFiles/generate.stamp.depend'
+    result='0'
+CUSTOMBUILD : CMake error : The source directory "C:/Users/jakam/OneDrive/Documents/CSCE 441/Assignments/A6" does not appear to contain CMakeLists.txt.
+  Specify --help for usage, or press the help button on the CMake GUI.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(242,5): error MSB8066: Custom build for 'C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\build\CMakeFiles\68196f413199b8720eb1dbff3e0b882a\generate.stamp.rule' exited with code 1.

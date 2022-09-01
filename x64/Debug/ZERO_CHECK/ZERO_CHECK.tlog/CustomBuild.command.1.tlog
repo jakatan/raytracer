@@ -1,0 +1,10 @@
+^C:\USERS\JAKAM\ONEDRIVE\DOCUMENTS\CSCE 441\ASSIGNMENTS\A6\BUILD\CMAKEFILES\68196F413199B8720EB1DBFF3E0B882A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/jakam/OneDrive/Documents/CSCE 441/Assignments/A6" "-BC:/Users/jakam/OneDrive/Documents/CSCE 441/Assignments/A6/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/jakam/OneDrive/Documents/CSCE 441/Assignments/A6/build/A6.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
