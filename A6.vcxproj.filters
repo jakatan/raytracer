@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\src\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\src\MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\src\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\src\MatrixStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\src\stb_image_write.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\src\tiny_obj_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jakam\OneDrive\Documents\CSCE 441\Assignments\A6\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{874EC465-E295-32B7-8A02-F3033AC504A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1C698FB6-001F-3038-BCF6-35CA3EAA221C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
